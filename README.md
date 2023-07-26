@@ -5,7 +5,7 @@ the main.py includes codes and descriptive notes I wrote from [YouTube video](ht
 that may not be accurate or fully comprehensive.
 
 ## Object Oriented Programming
-> is a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated. It also includes ideas of inheritance of > attributes and methods. [from Gartner.com](https://www.gartner.com/en/information-technology/glossary/oop-object-oriented-programming)
+> is a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated. It also includes ideas of inheritance of attributes and methods. [from Gartner.com](https://www.gartner.com/en/information-technology/glossary/oop-object-oriented-programming)
 ### OOP follows four principles:
 
 #### 1. Encapsulation 
