@@ -2,7 +2,7 @@
 this repository is notes from Object-Oriented-Programming learning video.
 
 the main.py includes codes and descriptive notes I wrote from [YouTube video](https://youtu.be/A9kSngn7254)
-that may not accurate or fully comprehensive.
+that may not be accurate or fully comprehensive.
 
 ## Object Oriented Programming
 > is a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated. It also includes ideas of inheritance of > attributes and methods. [from Gartner.com](https://www.gartner.com/en/information-technology/glossary/oop-object-oriented-programming)
